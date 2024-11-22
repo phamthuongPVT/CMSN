@@ -1,4 +1,4 @@
-const contentLetterSrart_actived = "Hôm nay là một ngày đặc biệt. Và tớ cũng có món quà nhỏ dành tặng cho Linh" //Lời mở đầu cho bức thư
+const contentLetterSrart_actived = "Hôm nay là một ngày đặc biệt. Và tớ cũng có món quà nhỏ dành tặng cho cậu" //Lời mở đầu cho bức thư
 const mainContentLetter = "Hi vọng cậu có một ngày sinh thần ý nghĩa luôn vui vẻ sống an nhiên. Sớm tìm được mảnh ghép còn thiếu của mình" //Nội dung của bức thư
 
 // Gắn 1 đường link ảnh bất kì
